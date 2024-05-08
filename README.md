@@ -31,9 +31,14 @@
 
 
 ### Задание 2
-
+![alt text](https://github.com/sergeyd0tnet/git-hw/blob/main/img/Screenshot_5.png)
+![alt text](https://github.com/sergeyd0tnet/git-hw/blob/main/img/Screenshot_6.png)
+![alt text](https://github.com/sergeyd0tnet/git-hw/blob/main/img/Screenshot_7.png)
+![alt text](https://github.com/sergeyd0tnet/git-hw/blob/main/img/Screenshot_8.png)
 
 
 ### Задание 3
-
-https://github.com/sergeyd0tnet/new_rep/network
+![alt text](https://github.com/sergeyd0tnet/git-hw/blob/main/img/Screenshot_9.png)
+![alt text](https://github.com/sergeyd0tnet/git-hw/blob/main/img/Screenshot_10.png)
+![alt text](https://github.com/sergeyd0tnet/git-hw/blob/main/img/Screenshot_11.png)
+![alt text](https://github.com/sergeyd0tnet/git-hw/blob/main/img/Screenshot_12.png)
