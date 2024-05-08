@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "`Git`" - `Borodavkin Sergey`
+# Домашнее задание к занятию "`Что такое DevOps. СI/СD`" - `Borodavkin Sergey`
 
 
 ### Инструкция по выполнению домашнего задания
@@ -24,12 +24,15 @@
 
 ### Задание 1
 
-https://github.com/sergeyd0tnet/new_rep/blob/main/README.md
+![alt text](https://github.com/sergeyd0tnet/git-hw/blob/main/img/Screenshot_1.png)
+![alt text](https://github.com/sergeyd0tnet/git-hw/blob/main/img/Screenshot_2.png)
+![alt text](https://github.com/sergeyd0tnet/git-hw/blob/main/img/Screenshot_3.png)
+![alt text](https://github.com/sergeyd0tnet/git-hw/blob/main/img/Screenshot_4.png)
 
 
 ### Задание 2
 
-https://github.com/sergeyd0tnet/new_rep/commit/0a2b3075b411d341d987b5ead67f18d6d3d2c6b9
+
 
 ### Задание 3
 
