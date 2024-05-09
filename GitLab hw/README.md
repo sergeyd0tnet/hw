@@ -23,8 +23,8 @@
 ---
 
 ### Задание 1
-
-
+![alt text](https://github.com/sergeyd0tnet/hw/blob/main/GitLab%20hw/img/Screenshot_1.png)
+![alt text](https://github.com/sergeyd0tnet/hw/blob/main/GitLab%20hw/img/Screenshot_2.png)
 
 ### Задание 2
 
