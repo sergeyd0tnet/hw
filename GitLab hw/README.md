@@ -31,3 +31,4 @@
 ![alt text](https://github.com/sergeyd0tnet/hw/blob/main/GitLab%20hw/img/Screenshot_3.png)
 ![alt text](https://github.com/sergeyd0tnet/hw/blob/main/GitLab%20hw/img/Screenshot_4.png)
 ![alt text](https://github.com/sergeyd0tnet/hw/blob/main/GitLab%20hw/img/Screenshot_5.png)
+![alt text](https://github.com/sergeyd0tnet/hw/blob/main/GitLab%20hw/img/Screenshot_6.png)
