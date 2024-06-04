@@ -24,8 +24,8 @@
 
 ### Задание 1
 
-![alt text](https://github.com/sergeyd0tnet/hw/blob/main/Disaster_hw\img\Screenshot_1.png)
-![alt text](https://github.com/sergeyd0tnet/hw/blob/main/Disaster_hw\img\Screenshot_2.png)
+![alt text](https://github.com/sergeyd0tnet/hw/blob/main/Disaster_hw/img/Screenshot_1.png)
+![alt text](https://github.com/sergeyd0tnet/hw/blob/main/Disaster_hw/img/Screenshot_2.png)
 
 файл с сконфигурируемой cisco packet tracer схемой рядом с редми файлом
 
@@ -34,9 +34,9 @@
 Конфиг файлы и скрипт находяться в папке Disaster_hw
 на скриншотах vm1 - master, vm2 - backup
 Исходное состояние
-![alt text](https://github.com/sergeyd0tnet/hw/blob/main/Disaster_hw\img\Screenshot_3.png)
-![alt text](https://github.com/sergeyd0tnet/hw/blob/main/Disaster_hw\img\Screenshot_4.png)
+![alt text](https://github.com/sergeyd0tnet/hw/blob/main/Disaster_hw/img/Screenshot_3.png)
+![alt text](https://github.com/sergeyd0tnet/hw/blob/main/Disaster_hw/img/Screenshot_4.png)
 Отключение Nginx
-![alt text](https://github.com/sergeyd0tnet/hw/blob/main/Disaster_hw\img\Screenshot_5.png)
-![alt text](https://github.com/sergeyd0tnet/hw/blob/main/Disaster_hw\img\Screenshot_6.png)
-![alt text](https://github.com/sergeyd0tnet/hw/blob/main/Disaster_hw\img\Screenshot_7.png)
+![alt text](https://github.com/sergeyd0tnet/hw/blob/main/Disaster_hw/img/Screenshot_5.png)
+![alt text](https://github.com/sergeyd0tnet/hw/blob/main/Disaster_hw/img/Screenshot_6.png)
+![alt text](https://github.com/sergeyd0tnet/hw/blob/main/Disaster_hw/img/Screenshot_7.png)
