@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "`Система мониторинга Zabbix`" - `Borodavkin Sergey`
+# Домашнее задание к занятию "`Disaster recovery и Keepalived`" - `Borodavkin Sergey`
 
 
 ### Инструкция по выполнению домашнего задания
