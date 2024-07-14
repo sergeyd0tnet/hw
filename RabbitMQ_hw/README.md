@@ -33,14 +33,14 @@
 
 ### Задание 3
 
-![alt text](https://github.com/sergeyd0tnet/hw/blob/main/Redis_cashe_hw/img/Screenshot_4.png)
-![alt text](https://github.com/sergeyd0tnet/hw/blob/main/Redis_cashe_hw/img/Screenshot_5.png)
-![alt text](https://github.com/sergeyd0tnet/hw/blob/main/Redis_cashe_hw/img/Screenshot_6.png)
-![alt text](https://github.com/sergeyd0tnet/hw/blob/main/Redis_cashe_hw/img/Screenshot_7.png)
-![alt text](https://github.com/sergeyd0tnet/hw/blob/main/Redis_cashe_hw/img/Screenshot_8.png)
-![alt text](https://github.com/sergeyd0tnet/hw/blob/main/Redis_cashe_hw/img/Screenshot_9.png)
-![alt text](https://github.com/sergeyd0tnet/hw/blob/main/Redis_cashe_hw/img/Screenshot_10.png)
-![alt text](https://github.com/sergeyd0tnet/hw/blob/main/Redis_cashe_hw/img/Screenshot_11.png)
-![alt text](https://github.com/sergeyd0tnet/hw/blob/main/Redis_cashe_hw/img/Screenshot_12.png)
+![alt text](https://github.com/sergeyd0tnet/hw/blob/main/RabbitMQ_hw/img/Screenshot_4.png)
+![alt text](https://github.com/sergeyd0tnet/hw/blob/main/RabbitMQ_hw/img/Screenshot_5.png)
+![alt text](https://github.com/sergeyd0tnet/hw/blob/main/RabbitMQ_hw/img/Screenshot_6.png)
+![alt text](https://github.com/sergeyd0tnet/hw/blob/main/RabbitMQ_hw/img/Screenshot_7.png)
+![alt text](https://github.com/sergeyd0tnet/hw/blob/main/RabbitMQ_hw/img/Screenshot_8.png)
+![alt text](https://github.com/sergeyd0tnet/hw/blob/main/RabbitMQ_hw/img/Screenshot_9.png)
+![alt text](https://github.com/sergeyd0tnet/hw/blob/main/RabbitMQ_hw/img/Screenshot_10.png)
+![alt text](https://github.com/sergeyd0tnet/hw/blob/main/RabbitMQ_hw/img/Screenshot_11.png)
+![alt text](https://github.com/sergeyd0tnet/hw/blob/main/RabbitMQ_hw/img/Screenshot_12.png)
 
 
