@@ -24,6 +24,8 @@
 
 ### Задание 1
 
+![alt text](https://github.com/sergeyd0tnet/hw/blob/main/Database/Database_hw/img/Screenshot_1.png)
+
 1. Сотрудники (
     идентификатор, первичный ключ, serial,
     фамилия varchar(50),
