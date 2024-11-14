@@ -35,19 +35,19 @@
 
 ### Задание 2
 - pg_dump:
-***bash 
+```bash 
 pg_dump -U username -F c -b -v -f /path/to/backup/file.backup dbname
-***
+```
 pg_restore:
-***bash
+```bash
 pg_restore -U username -d dbname -v /path/to/backup/file.backup
-***
+```
 
 Можно автоматизировать с помощью cron
 
 - бэкап
 
-***bash 
+```bash 
 #!/bin/bash
 
 USER="username"
@@ -56,10 +56,10 @@ BACKUP_DIR="/path/to/backup"
 BACKUP_FILE="$BACKUP_DIR/$(date +\%Y-\%m-\%d_\%H-\%M-\%S).backup"
 
 pg_dump -U $USER -F c -b -v -f $BACKUP_FILE $DBNAME
-***
+```
 -восстановление
 
-***bash 
+```bash 
 #!/bin/bash
 
 USER="username"
@@ -67,15 +67,15 @@ DBNAME="dbname"
 BACKUP_FILE="/path/to/backup/file.backup"
 
 pg_restore -U $USER -d $DBNAME -v $BACKUP_FILE
-***
+```
 
 
 ### Задание 3
 сперва нужно сделать полный бэкап
-***bash
+```bash
 mysqlbackup --user=root --password=root_password --host=localhost --backup-dir=/path/to/backup/full --backup-image=full_backup.mbi --compress backup
-***
+```
 после полного, инкрементальный
-***bash
+```bash
 mysqlbackup --user=root --password=root_password --backup-dir=/path/to/incremental_backup --incremental-basedir=/path/to/full_backup backup
-***
+```
